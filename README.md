@@ -2,4 +2,4 @@
  VAE-like classification implementation using pytorch
 
 ### CVAEs
-- [Open with Colab](https://colab.research.google.com/github/uesmgn/classification-vae/blob/master/notebook_cvae.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uesmgn/classification-
